@@ -3,16 +3,29 @@ package dev.omedia;
 public class Main {
 
     public static void main(String[] args) {
+        //Section-5 {
+        // 1 - PositiveNegativeZero,
+        // 2 - SpeedConverter ,
+        // 3 - MegaBytesConverter,
+        // 4 - BarkingDog,
+        // 5 - LeapYear,
+        // 6 - DecimalComparator,
+        // 7 - EqualSumChecker,
+        // 8 - TeenNumberChecker,
+        // 9 - AreaCalculator,
+        // 10 - MinutesToYearAndDays
+        // 11 - EqualityPrinter,
+        // 12 - PlayingCat
+        // }
 
-        PositiveNegativeZero.checkNumber(25);                     //Ex1
-        SpeedConverter.printConversion(25);       //Ex2
-        MegaBytesConverter.printMegaBytesAndKiloBytes(255);       //Ex3
-        IntEqualityPrinter.printEqual(22, 11, 3);                 //Ex11
-        InputCalculator.inputThenPrintSumAndAverage();            //Ex28
-        //EX 30
-        SimpleCalculator calc  = new SimpleCalculator(11,22);
-        System.out.println(calc.getAdditionResult());
-
+        System.out.println(SumOddRange.sumOdd(100, 1000));
+        //Section-6, {
+        // 13 - NumberInWord,
+        // 14 - NumberOfDaysInMonth
+        // 15 - SumOddRange
+        // 16
+        // 28
+        // 30
 
     }
 }
