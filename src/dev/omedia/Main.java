@@ -18,14 +18,23 @@ public class Main {
         // 12 - PlayingCat
         // }
 
-        System.out.println(SumOddRange.sumOdd(100, 1000));
         //Section-6, {
         // 13 - NumberInWord,
         // 14 - NumberOfDaysInMonth
         // 15 - SumOddRange
-        // 16
-        // 28
-        // 30
-
+        // 16 - NumberPalindrome
+        // 17 - FirstLastDigitSum
+        // 18 - EvenDigitSum
+        // 19 - SharedDigit
+        // 20 - LastDigitChecker
+        // 21 - AllFactors
+        // 22 - GreatestCommonDivisor
+        // 23 - isPerfectNumber
+        // 24 - ?
+        // 25 - FlourPacker
+        // 26 - LargestPrime
+        // 27 - DiagonalStar
+        // 28 - InputCalculator
+        // 29 - PaintJob
     }
 }
